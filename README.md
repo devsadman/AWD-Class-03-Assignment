@@ -1,6 +1,6 @@
 ## CodersTrust AWD Class 03 Assignments
 
-![GitHub Logo](/assets/img/logo.png)
+![Coders Trust Logo](/assets/img/logo.png)
 
 1. বড় হাত, ছোট হাত, উভয় হাত এর লেখা কনভাসন করার জন্য একটিং ফাংসন বানান
 2. পি এইচ পি এর রিভাস ফাংসনের মতন একটি ফাংসন বানান
